@@ -4,8 +4,6 @@
             <nav>
                 <ul>
                     <li><a href="shop.html">Shop</a></li>
-                    <li><a href="aboutus.html">About us</a></li>
-                    <li><a href="contactus.html">Contact us</a></li>
                 </ul>
             </nav>
         </section>
