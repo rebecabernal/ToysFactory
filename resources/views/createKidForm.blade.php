@@ -7,7 +7,7 @@
     </div>
 
     <div class="tableKid">
-        <h2 class="form-title">Edit Kid</h2>
+        <h2 class="form-title">Create Kid</h2>
         <form action="{{ route('update', $kid->id) }}" method="POST" class="form-container">
 
         @csrf
@@ -41,7 +41,7 @@
             </div>
 
             <div class="form-actions">
-                <button type="submit" class="form-button">Edit Kid</button>
+                <button type="submit" class="form-button">Create Kid</button>
             </div>
 
         </form>
