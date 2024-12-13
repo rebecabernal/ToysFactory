@@ -1,4 +1,4 @@
-# JOB SEARCH APP LARAVEL
+# Santa's Toys Factory
 
 >[!IMPORTANT]
 >To learn how to install and also to know how our team did this project, it's very important that you read every part of this readme. Thank you for your patience and have a good read.
