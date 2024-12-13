@@ -3,7 +3,8 @@
         <section>
             <nav>
                 <ul>
-                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="{{ asset('elves') }}">Elves</a></li>
+                    <li><a href="{{ asset('santa') }}">Santa</a></li>
                 </ul>
             </nav>
         </section>
