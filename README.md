@@ -10,43 +10,29 @@
 
 ## Requirements to achieve in this project:
 
-- Los elfos deben Visualizar en pantalla todos los juguetes fabricados (Blade).
-  
-- Los elfos deben Visualizar Json todos los juguetes fabricados.
+- The elves must display all the toys made (Blade) on the screen.
 
-- Los elfos deben poder borrar un juguete por Endpoints
+- Elves should be able to delete, view all, insert, modify, and watch a toy show by Endpoints
 
-- Los elfos deben poder insertar un juguete por Endpoints
+- The elves should be able to see a toy show (Blade)
 
-- Los elfos deben poder modificar un juguetepor Endpoints
+- Santa Claus must display all the kids on the screen (Blade).
 
-- Los elfos deben poder ver  el show de un juguete por Endpoints
+- Santa Claus must View the of Json all the kids.
 
-- Los elfos deben poder ver  el show de un juguete (Blade)
+- Santa Claus must be able to delete, insert, modify, and see (show) the kids through Endpoints
 
-- Santa Claus debe Visualizar en pantalla todos los y las peques (Blade).
+- Santa Claus must be able to see the little ones' show (Blade)
 
-- Santa Claus debe Visualizar Json todos los y las  peques.
+- Santa Claus will have a button on blade and a route through Api to generate the list of toys for the little ones that appears in both Blade and Api
 
-- Santa Claus debe  poder borrar los y las peques por Endpoints
+- 70% minimum test coverage.
 
-- Santa Claus debe  poder insertar los y las peques por Endpoints
+- User Stories and well-assembled Project
 
-- Santa Claus debe  poder modificar los y las peques por Endpoints
+- Elf Routes must contain the word elves and Santa Claus Routes must contain Santa
 
-- Santa Claus debe poder ver  el show de los y las peques por Endpoints
-
-- Santa Claus debe  poder ver  el show de los y las peques (Blade)
-
-- Santa Claus tendrá un botón en blade y una ruta por Api para generar la lista de juguetes para los y las peques que aparezca tanto en Blade como en Api
-
-- 70% de test coverage mínimo.
-  
-- Historias de Usuario y Project bien montado
-  
-- Las Rutas de los elfos deben contener la palabra elfos y las rutas de Santa Claus debe contener Santa
-
-- la pagina de bienvenida debe ser una bienvenida a la fabrica de juguetes no aparecerá ninguna lista en la pagina principal
+- The welcome page must be a welcome to the toy factory it will not appear
 ***
 
 ## :eye_speech_bubble: Project overview
@@ -82,7 +68,7 @@ Take a look at how our project turned out.
 
 
 
-The diagram I did for my database in **DrawSQL**.
+The diagram we did for the database in **DrawSQL**.
 
 As you can the three tables are interlinked, this one, with a **ManyToMany** relantionship.
 ***
