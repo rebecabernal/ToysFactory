@@ -246,11 +246,22 @@ This will add a folder called "coverage-report", go to the folder, go to the ind
 
 ***
 
-## Contact and information
+## Team
 
 >[!NOTE]
 >Please understand that our team is still learning, not everything will look or be perfect. Thank you for the attention.
 
+Rebeca Bernal: https://github.com/rebecabernal
+
+Diego Santamaria: https://github.com/DinGo21
+
+Rodrigo Lastra: https://github.com/rodrigoo1604
+
+Talena Barbosa: https://github.com/talenaa
+
+Valeria Dobado: https://github.com/ugotchriscoded
+
+José Ignacio: https://github.com/sr-calcetines
 
 ***
 
